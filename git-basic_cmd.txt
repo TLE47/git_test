@@ -1,0 +1,13 @@
+Commands related to a remote repository:
+git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
+ (clone repository from gitHub to local computer)
+git push or git push origin main (push files to gitHub)
+
+Commands related to the workflow:
+git add . (adding all files to the staging area)
+git commit -m "Description" (commit file)
+
+Commands related to checking status or log history
+git status (checking status)
+git log (checking commmit history)
+
